@@ -232,6 +232,6 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 
 /* styling for abbr */
 
-.pika-table abbr {
+.pika-table abbr[title] {
     border-bottom: none;
 }
