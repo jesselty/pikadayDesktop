@@ -60,6 +60,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
     position: relative;
     text-align: center;
     background: #fafafa;
+    border-bottom: 1px solid #ddd;
 }
 
 .pika-label {
