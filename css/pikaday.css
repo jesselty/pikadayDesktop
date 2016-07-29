@@ -49,7 +49,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 
 .pika-lendar {
     float: left;
-    width: 255px;
+    width: 264px;
 }
 
 .pika-lendar:first-child {
@@ -227,7 +227,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 
 .pika-button:hover {
     box-shadow: none;
-    background: #fafafa;
+    background: #E5F3FA;
 }
 
 
